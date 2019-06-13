@@ -1,11 +1,4 @@
-# Tron DApp Template
-
-
-> For basic tutorial series, checkout video tutorial series -
-
-> Best Tron (TRX) DApp Tutorial Series for Beginners : https://www.youtube.com/playlist?list=PLL5pYVd8AWtRDnTTKWzPpFcBT9nrPCQt6
-
-------------------------
+---
 
 ## Instructions :
 
@@ -31,6 +24,6 @@ $ yarn
 $ yarn start
 ```
 
-checkout your  dapp at http://localhost:3000/
+checkout your dapp at http://localhost:3000/
 
-------------------------
+---
